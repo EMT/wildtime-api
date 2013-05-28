@@ -21,7 +21,7 @@ class ActivitiesController extends \lithium\action\Controller {
 
 	public function view() {
 		$activity = Activities::first(array(
-			'conditions' => array('activities.id' => $this->request->id),
+			'conditions' => array('Activities.id' => $this->request->id),
 			'with' => array('Timeframes')));
 		return compact('activity');
 	}
