@@ -13,12 +13,16 @@ class ActivitiesController extends \lithium\action\Controller {
 		if (!empty($this->request->timeframe_id)) {
 			$conditions['timeframe_id'] = $this->request->timeframe_id;
 		}
-		$activities = Activities::all(array('conditions' => $conditions));
+		$activities = Activities::all(array(
+			'conditions' => $conditions,
+			'with' => array('Timeframes')));
 		return compact('activities');
 	}
 
 	public function view() {
-		$activity = Activities::first($this->request->id);
+		$activity = Activities::first(array(
+			'conditions' => array('activities.id' => $this->request->id),
+			'with' => array('Timeframes')));
 		return compact('activity');
 	}
 	
@@ -31,9 +35,9 @@ class ActivitiesController extends \lithium\action\Controller {
 			if ($item) {
 				$tf = explode('### ', $item);
 				$timeframe = Timeframes::create();
-				$timeframe->human = trim(array_shift($tf));
-				list($mins) = explode(' ', $timeframe->human);
-				$timeframe->minutes = $mins;
+				$time = explode(':', array_shift($tf));
+				$timeframe->human = trim($time[1]);
+				$timeframe->minutes = (int)$time[0];
 				if ($timeframe->save()) {
 					echo '<br />Added Timeframe: ' . $timeframe->human;
 					$count = 0;

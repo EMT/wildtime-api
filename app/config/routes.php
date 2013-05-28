@@ -72,9 +72,10 @@ if (!Environment::is('production')) {
  */
  
 Router::connect('/timeframes/{:timeframe_id:\d+}/activities.{:type}', 'Activities::index');
+Router::connect('/timeframes/{:timeframe_id:\d+}/activities', 'Activities::index');
  
 Router::connect('/{:controller}/{:action}/{:id:\d+}.{:type}', array('id' => null));
-// Router::connect('/{:controller}/{:action}/{:id:\d+}');
+Router::connect('/{:controller}/{:action}/{:id:\d+}');
 
 /**
  * If you're using a document-oriented database, such as CouchDB or MongoDB, or another type of

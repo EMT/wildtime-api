@@ -15,7 +15,9 @@ class TimeframesController extends \lithium\action\Controller {
 
 	public function view() {
 		$with = (empty($this->request->query['with'])) ? array() : $this->request->query['with'];
-		$timeframe = Timeframes::first($this->request->id, array('with' => $with));
+		$timeframe = Timeframes::first(array(
+			'conditions' => array('timeframes.id' => $this->request->id),
+			'with' => $with));
 		return compact('timeframe');
 	}
 	

@@ -1,5 +1,5 @@
 
-## 10 Minutes
+## 10: 10 Minutes
 
 
 ### DRAWING
@@ -87,7 +87,7 @@ Owls come out at night, so wait until its dark before trying this activity. All 
 
 
 
-## 20 Minutes
+## 20: 20 Minutes
 
 
 ### BIRDSTEP
@@ -240,7 +240,7 @@ Image URL:
 This is a fun game to play with your friends. You will need a blindfold or cloth bag. Head into the garden or local park and collect a bunch of natural things. What can you find? Try to get things with different shapes, textures and feels. Blindfold your friend, or place the items into the cloth bag. Can you guess what it is just by touch? No peeking!
 				
 
-## 30 minutes
+## 30: 30 minutes
 
 ### SPY WALK
 Image URL: 
@@ -409,7 +409,7 @@ Image URL:
 In September hedgerows are full of yummy blackberries. Head out and see if you can find some. You may get scratched by the prickly brambles.
 
 
-## 1 hour
+## 60: 1 hour
 
 
 ### Feel the Wild
@@ -563,7 +563,7 @@ Image URL:
 Flying kites is lots of fun. You need plenty of wind, a wide open space and a kite! If you do not have a kite, you can make your own from a sheet of paper. The National Trust show you how in <a href="https://www.50things.org.uk/nt50tAssets/games/Bumble_Bee_Kite.pdf">this pack</a>.
 
 
-## 2 hours
+## 120: 2 hours
 
 
 ### PARK RANGERS
@@ -650,7 +650,7 @@ Image URL:
 Do you know somewhere where wild grass grows? Do you have some old odd socks? Put one on over your shoes and stomp around in the long grass. Get the sock as dirty as you can. You could hike around your garden or park. When your sock looks really dirty put it in a clear plastic bag with a squirt of water. Tape the bag on a window in a sunny place and check daily to see the sock slowly sprout to life!
 
 
-## Half a day
+## 240: Half a day
 
 
 ### BUILD A WILD DEN

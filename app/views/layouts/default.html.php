@@ -10,7 +10,7 @@
 <html>
 <head>
 	<?php echo $this->html->charset();?>
-	<title>Application &gt; <?php echo $this->title(); ?></title>
+	<title><?php echo $this->title(); ?></title>
 	<?php echo $this->html->style(array('bootstrap.min', 'lithified')); ?>
 	<?php echo $this->scripts(); ?>
 	<?php echo $this->styles(); ?>
@@ -22,19 +22,16 @@
 		<div class="masthead">
 			<ul class="nav nav-pills pull-right">
 				<li>
-					<a href="http://lithify.me/docs/manual/quickstart">Quickstart</a>
+					<a href="/timeframes">Timeframes</a>
 				</li>
 				<li>
-					<a href="http://lithify.me/docs/manual">Manual</a>
+					<a href="/activities">Activities</a>
 				</li>
 				<li>
-					<a href="http://lithify.me/docs/lithium">API</a>
-				</li>
-				<li>
-					<a href="http://lithify.me/">More</a>
+					<a href="https://github.com/EMT/wildtime-api">Github</a>
 				</li>
 			</ul>
-			<a href="http://lithify.me/"><h3>&#10177;</h3></a>
+			<a href="/"><h3>Wild Time API</h3></a>
 		</div>
 
 		<hr>
@@ -46,7 +43,7 @@
 		<hr>
 
 		<div class="footer">
-			<p>&copy; Union Of RAD 2013</p>
+			<p>&copy; The Wild Network <?= date('Y'); ?></p>
 		</div>
 
 	</div>
