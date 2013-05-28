@@ -1,0 +1,9 @@
+app/resources/tmp/*
+app/webroot/css/optimized
+app/webroot/js/optimized
+
+# OS X
+.DS_Store
+
+# Vim
+.*.sw[a-z]
