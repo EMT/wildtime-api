@@ -35,3 +35,4 @@ Get a list of Activities for a specific Timeframe:
 Get a specific activity by ID:
 
     /activities/view/:activity_id.json
+
