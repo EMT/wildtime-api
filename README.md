@@ -19,7 +19,7 @@ Get a specific Timeframe by ID:
 
 To return activities with each timeframe, add with=Activities as a query string parameter:
 
-    /timeframes?with=Activities
+    /timeframes.json?with=Activities
     /timeframes/view/:timeframe_id.json?with=Activities
 
 ### Activities
