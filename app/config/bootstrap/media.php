@@ -25,6 +25,23 @@ use lithium\util\Collection;
 
 Collection::formats('lithium\net\http\Media');
 
+
+use lithium\net\http\Media;
+
+Media::type('jsonp', array('text/javascript','application/javascript'), array(
+    'view' => 'lithium\template\View',
+    'layout' => false,
+    'paths' => array(
+        'template' => '{:library}/views/{:type}.php',
+        'layout' => '{:library}/views/{:type}.layout.php'
+    ),
+    'conditions' => array('type' => true),
+    'encode' => function($data, $handler, &$response) {
+        // do something with it
+        return $_GET['callback']."(".json_encode($data).")";
+    }
+));
+
 /**
  * This filter is a convenience method which allows you to automatically route requests for static
  * assets stored within active plugins. For example, given a JavaScript file `bar.js` inside the
