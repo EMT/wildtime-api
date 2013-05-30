@@ -3,37 +3,37 @@
 
 
 ### Drawing
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/drawing.svg
 
 Take a paper &amp; pencil. Get outside, pick up or find some wild stuff, dirt, leaves, twigs, plants and draw, non-stop for 10 minutes. No stopping or talking, just drawing.
 
 
 ### Bird Play
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bird-play.svg
 
 Birds are everywhere. Can you see some right now? Observe the birds and imitate their movements. How do different birds move?
 
 
 ### Fox Walk
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/fox-walk.svg
 
 Foxes are wily, stealthy animals. Put one foot quietly in front of the other and walk like a fox. How close can you get to a squirrel or bird?
 
 
 ### Colour Counting
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/colour-counting.svg
 
 Walk out your front door. How many different colours can you count? Write them down. Who can see the most? What is the most unusual colour?
 
 
 ### Spider Web Spy
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/colour-counting.svg
 
 You can play this game in the garden, in the woods or even your house. How many different spider webs can you find? What makes each one different? Try to draw your own web.
 
 
 ### Cloud Spotting
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/cloud-spotting.svg
 
 Head outside, lie down and look at the clouds. What shapes can you see? Are there any that look like something else? Can you count all the clouds in the sky?
 
