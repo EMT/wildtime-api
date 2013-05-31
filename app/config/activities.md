@@ -27,7 +27,7 @@ Walk out your front door. How many different colours can you count? Write them d
 
 
 ### Spider Web Spy
-Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/colour-counting.svg
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/spider-web-spy.svg
 
 You can play this game in the garden, in the woods or even your house. How many different spider webs can you find? What makes each one different? Try to draw your own web.
 
@@ -39,13 +39,13 @@ Head outside, lie down and look at the clouds. What shapes can you see? Are ther
 
 
 ### Ant Detective
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/ant-detective.svg
 
 If you find a trail of ants, follow it forwards and backwards. Where have they been and where are they going? Watch how they follow their path. What do you think they looking for? Can you find their home?
 
 
 ### Grass Whistle
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/grass-whistle.svg
 
 A grass whistle is quick to make and fun to blow. All you need is a good blade of grass. Choose carefully and get whistling!
 
@@ -53,7 +53,7 @@ Put your thumbs together, and hold the blade of grass between them, gripping the
 
 
 ### Walk Like The Animals
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/walk-like-the-animals.svg
 
 Can you walk like an animal? Find a good place outside to practice with friends. Think about how different animals walk, can you see any that you can imitate? How about trying to walk like a crab (on all fours and sideways) or a hopping frog? When you have had a chance to practice you can hold an animal walk race!
 
@@ -61,7 +61,7 @@ To get ideas for how different animals move check out <a href="http://www.bbc.co
 
 
 ### Bird Talk
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bird-talk.svg
 
 Take 10 mins to be still and listen to the chorus of birds right outside your house. How many different bird songs can you hear? Try to imitate them. What bird do you think makes that call? What do you think the birds are saying? Can you talk to the birds?
 
@@ -69,19 +69,19 @@ You can hear british bird calls on the <a href="http://www.bbc.co.uk/radio4/scie
 
 
 ### Tree Hugs
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/tree-hugs.svg
 
 Take 10 minutes to feel a tree. Every tree species is unique and different, some are rough with distinct patterns while others are smooth like paper. Try this with a friend &ndash; it makes it more fun. Choose two different trees close to each other, close your eyes and use your hands to explore the bark and leaves. What can you find out about the tree? What does it feel like? Is it warm or cool? Describe the tree to your friend in as much detail as you can.
 
 
 ### Guess The Animal Noise
-Image URL:
+Image URL: 
 
 Animals make crazy noises. How many different animal noises can you think of? Try to make an animal noise, see if your friends can guess what you are.
 
 
 ### Call An Owl
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/call-an-owl.svg
 
 Owls come out at night, so wait until its dark before trying this activity. All you need are two hands, an owl impression and something to sit on. Try it in your back garden. This <a href="https://www.youtube.com/watch?v=H8J8ZJGmmHY">video from the National Trust</a> will show you how.
 
@@ -91,7 +91,7 @@ Owls come out at night, so wait until its dark before trying this activity. All 
 
 
 ### Birdstep
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bird-step.svg
 
 Spot a bird, they're everywhere if you stop and look and listen. How close can you get to that bird? Be silent, statue-like, stealthy and move super-slow. Can you talk to it through your inner wild thing?
 
@@ -99,7 +99,7 @@ Can you snap it, identify it, share it?
 
 
 ### Bird Dinner Party
-Image URL:
+Image URL: 
 
 Set out seeds for birds in the winter and watch to see who comes. How many different types of bird come to the party? Try to draw or snap them. Share them with your friends.
 
@@ -107,13 +107,13 @@ You can identify British birds on the <a href="http://www.rspb.org.uk/wildlife/b
 
 
 ### Smell Collecting
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/smell-collecting.svg
 
 Head out for a short walk somewhere near your house and collect the smells you come across. Can you catch a smell? Pick up things (like pond water, earth, a flower, a leaf) to put in jars. Close your eyes.  Can you tell which you are smelling?
 
 
 ### Leaf Snap
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/leaf-snap.svg
 
 Collect a bunch of different fallen leaves in a bag. Then empty out the bag and try to match the leaves with ones from the same tree. How many different types of leaf can you find? You can identify them here:
 
@@ -121,7 +121,7 @@ Collect a bunch of different fallen leaves in a bag. Then empty out the bag and 
 	
 
 ### Bee Stalk
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bee-stalk.svg
 
 When you spot a bee visiting a flower, wait and then follow where it goes. Be careful to watch where you are going because a bee can reach places more easily than you can.
 
@@ -129,7 +129,7 @@ Thanks to the Woodland Trust for this activity. You can find more like it over a
 
 
 ### Shadow Watching
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/shadow-watching.svg
 
 This is good for a sunny day. Head outside into an area with plants and trees. Look at the shadows on the floor, and you will see all sorts of magical pictures. You may find a shadow beast, a giant's stairway and much more. Use your hands, cones, grasses and other things to create shadow pictures on the ground.
 
@@ -139,7 +139,7 @@ Thanks to the Woodland Trust for this activity. You can find more like it over a
 
 
 ### Stop And Listen
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/stop-and-listen.svg
 
 Find a quiet place to sit and listen. Even on a still day you will be able to hear the song of Nature. Each day it is new and different. What can you hear? Chirping grasshoppers? Breezes in the tree-tops? Buzzing bees, buzzing wasps?
 
@@ -149,19 +149,19 @@ Thanks to the Woodland Trust for this activity. You can find more like it over a
 
 
 ### Give Me Five
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/give-me-five.svg
 
 Head outside. All you need is a keen pair or eyes. Pick a category. Try to find 5 different things that fit the category. For example find 5 different types of tree, 5 different animals, 5 different insects, or 5 different flowers. Snap, draw or write down the things you find. Do you know what they are called? If not then when you get home look them so that you know for next time.
 
 
 ### Microscopic Animal Walk
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/microscopic-animal-walk.svg
 
 For this game you will need a magnifying glass. Head outside, find a fallen tree, patch of grass or turn over a stone. Get down on your hands and knees and focus on the subject with the magnifying glass. Move very slowly, pretend you are a tiny creature, making its way through the habitat. Do things look different at this scale? What do you notice that you don't normally see? Can you draw what you see?
 
 
 ### Animal Charades
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/animal-charades.svg
 
 This game is best played outside but you can play indoors if its raining. One person pretends to be an animal and the others try to guess who they are. There are many things you can do to give them hints: make creature sounds, walk or run like the animal, act brave or timid, noisy or quiet depending on what you are.
 
@@ -169,7 +169,7 @@ Pretend so well that you become the animal. Give everyone in the group a chance 
 
 
 ### Camouflage Experiments
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/camoflage-experiments.svg
 
 Nature is an expert at camouflage. For example polar bears are white to blend in with the ice and snow. Stick insects are thin and spindly to look like pieces of tree.
 
@@ -177,7 +177,7 @@ Head outside into a park or garden and see if you can find examples of camouflag
 
 
 ### Fun In The Rain
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/fun-in-the-rain.svg
 
 Next time it is raining don't stay inside, put on a raincoat and wellies and experience a natural shower!
 
@@ -185,13 +185,13 @@ Once you're outside splashing through the rain, sniff the air. What does rain sm
 
 
 ### Observation Game
-Image URL:
+Image URL: 
 
 Head outside with a friend, take a pencil and paper with you. Try to find somewhere with interesting plants, rocks or trees. Find a place to sit and choose a natural item to describe. Write about it for 5 mins. What does it look like? What colour is it? How big is it? What textures does it have? Be careful not to name the item. When you are finished exchange pieces of paper. Can you tell what it was your friend was describing? Choose a different object and start again.
 
 
 ### Daisy Chain
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/daisy-chain.svg
 
 For this summer activity you will need to head somewhere with lots of daisies, a park or lawn. Maybe you have them in your garden?
 
@@ -203,7 +203,7 @@ Thread the stem of another daisy through the slit. Then repeat the process with 
 
 
 ### Look Under A Rock
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/look-under-a-rock.svg
 
 Head outside. Can you find a rock to look underneath? When you find one, turn it over carefully. You don't want to harm the things that live under it. What can you see underneath? Are there mini-beasts living there? What patterns can you find in the dirt? Are there slippery slug trails or worm holes?
 
@@ -221,13 +221,13 @@ This is just one of the National Trusts 50 things to do before you are 11&frac34
 
 
 ### Nature Bracelet
-Image URL:
+Image URL: 
 
 To make a nature bracelet all you need is masking tape. Wrap the tape around your wrist sticky side out. Then, head out into your garden, street or a park. Look around for natural things to stick to your bracelet. Leaves, flowers and seeds all make great decorations. You could try making a bracelet with one colour, or with many different coloured things. Try to cover every piece of sticky tape with something natural.
 
 
 ### Climb A Tree
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/climb-a-tree.svg
 
 Trees make the best climbing frames, if you know how to pick the right one. Go with a friend or parent, they can help you pick a good one and spot footholds. Choose one with sturdy branches you can reach from the ground. Check under the tree for things that can hurt you if you fall, and look out for slippery moss and rotten branches. Remember to keep three of your arms and legs on the tree at all times. Enjoy the view!
 
@@ -235,7 +235,7 @@ This is just one of the National Trusts 50 things to do before you are 11&frac34
 
 
 ### Nature Mystery Bag
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-mystery-bag.svg
 
 This is a fun game to play with your friends. You will need a blindfold or cloth bag. Head into the garden or local park and collect a bunch of natural things. What can you find? Try to get things with different shapes, textures and feels. Blindfold your friend, or place the items into the cloth bag. Can you guess what it is just by touch? No peeking!
 				
@@ -251,7 +251,7 @@ Spy it, snap it, note it, sketch it.
 
 
 ### Read Out
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/read-out.svg
 
 Don't read in. Read out.
 
@@ -259,19 +259,19 @@ Take your reading books and find a spot in outside to sit and read. Everything i
 
 
 ### Rainbow Search
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/rainbow-search.svg
 
 Take a walk through your neighbourhood, garden or a local park. Try to find something natural that is one of the colours of the rainbow. Then look hard to find something that matches each colour in the rainbow: Red, Orange, Yellow, Green, Blue, Indigo (a purple blue), and Violet.
 
 
 ### Smell Walk
-Image URL:
+Image URL: 
 
 Take a short walk and write down all the different things you can smell, such as fresh cut grass, moist soil, flowers, and rain. Can you smell different things at different times of the day? Can you smell different things in different weather conditions or seasons? When do you smell the most things? Can you locate the source of each smell?
 
 
 ### Dandelion Invisible Ink
-Image URL:
+Image URL: 
 
 Go outside and try to find a dandelion. Pick one, make sure you get plenty of stem. Look at the stem – a white liquid or sap will be oozing out. You can use this white sap as invisible ink! Just draw on a piece of paper using the stem sap. At first it will be very difficult to read. Leave it to dry and your picture or message will then be clear to see!
 
@@ -289,7 +289,7 @@ Thanks to the Nature Detectives for this activity. You can find more like it ove
 
 
 ### Snail Races
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/snail-races.svg
 
 Stage a snail race! First, carefully collect some snails. Snails are most active at night or in damp conditions. See if you can collect some after a shower of rain. To make a snail racecourse, draw a circle on the ground about 30 cm in diameter with a smaller circle at the centre, or download the printable course below. Before starting the race give each snail a name. Which one do you think will win? Place the snails in the centre of the circle and start the timer. The first one to get out of the circle wins! Who's the champion?  In what time did they finish? Reward the snails with a nice juicy lettuce leaf before letting them go!
 
@@ -301,7 +301,7 @@ Thanks to the Woodland Trust for this idea. You can <a href="http://www.naturede
 
 
 ### Leaf Hunt
-Image URL:
+Image URL: 
 
 Head to a local park or outside space with a lot of trees. Investigate the leaves on the trees. What shapes are they? What do they feel and smell like? See how many different types of tree you can identify from <a href="http://www.naturedetectives.org.uk/download/hunt_leaves.htm ">this downloadable sheet</a>.
 
@@ -311,7 +311,7 @@ Thanks to the Woodland Trust for this spotting activity. You can find more like 
 
 
 ### Forest Floor Challenge
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/forest-floor-challenge.svg
 
 Challenge your friends to see how far you can explore a wood or garden without touching the floor.
 
@@ -329,7 +329,7 @@ Thanks to the Woodland Trust for this game. You can find more like it over at th
 
 
 ### Nest Challenge
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nest-challenge.svg
 
 Spring is the time for many birds to build a nest, ready for laying their eggs and bringing up their hatched chicks. Can you build a nest that could hold a clutch of eggs and withstand the wind?
 
@@ -341,7 +341,7 @@ Thanks to the Woodland Trust for this challenge. You can find more bird activiti
 
 
 ### Nature Perfume Pot
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-perfume-pot.svg
 
 Head outside, to a nature place with lots of plants. You will need to bring an old container such as a yoghurt pot with you for this activity. Look for things on the floor or in hedges and bushes. Pick them up, crush them or break them between your fingers and smell. Add any smells you like to your pot to make a nature scent. Use a stick to mash them together. Which animals may be attracted to your woodland scent? A bumble bee? A badger? A blackbird? 
 
@@ -349,7 +349,7 @@ Head outside, to a nature place with lots of plants. You will need to bring an o
 
 
 ### Nature Hunt
-Image URL:
+Image URL: 
 
 How many of these treasures can you find and collect? Some things may only appear at particular times of year. Which things can be found when?
 
@@ -376,7 +376,7 @@ Thanks to the Woodland Trust for this scavenger hunt. You can find more like it 
 
 
 ### Nature Art
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-art.svg
 
 Go on a short walk around a garden or park looking out for different objects on the ground. Look for different colours shapes or textures. Collect the objects and arrange them into a picture or pattern. What can you draw with the things you have found? Take pictures of your art and share with your friends.
 
@@ -388,7 +388,7 @@ Find an outside place with trees and plants. What things can you find to use to 
 
 
 ### Bark Rubbing
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bark-rubbing.svg
 
 Bark rubbings are a simple way to collect interesting patterns. This is an activity for a dry day. You will need a large crayon and some thin paper.
 
@@ -396,7 +396,7 @@ Head outside and find a tree. Pick one that feels good to you. Press a sheet of 
 
 
 ### Leaf Rubbing
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/leaf-rubbing.svg
 
 Leaf rubbings are a simple way to collect interesting patterns. You will need a large crayon, some thin paper and a hard surface.
 
@@ -404,7 +404,7 @@ Head outside and collect a bunch of interesting leaves. Lay them on your hard fl
 
 
 ### Eat Wild Blackberries
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/eat-wild-blackberries.svg
 
 In September hedgerows are full of yummy blackberries. Head out and see if you can find some. You may get scratched by the prickly brambles.
 
@@ -413,7 +413,7 @@ In September hedgerows are full of yummy blackberries. Head out and see if you c
 
 
 ### Feel the Wild
-Image URL:
+Image URL: 
 
 Walk to a park or some wild space, find a comfortable looking spot and sit or lie down – maybe under a tree.
 
