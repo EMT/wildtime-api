@@ -75,7 +75,7 @@ Take 10 minutes to feel a tree. Every tree species is unique and different, some
 
 
 ### Guess The Animal Noise
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/guess-the-animal-noise.svg
 
 Animals make crazy noises. How many different animal noises can you think of? Try to make an animal noise, see if your friends can guess what you are.
 
@@ -99,7 +99,7 @@ Can you snap it, identify it, share it?
 
 
 ### Bird Dinner Party
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bird-dinner-party.svg
 
 Set out seeds for birds in the winter and watch to see who comes. How many different types of bird come to the party? Try to draw or snap them. Share them with your friends.
 
@@ -185,7 +185,7 @@ Once you're outside splashing through the rain, sniff the air. What does rain sm
 
 
 ### Observation Game
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/observation-game.svg
 
 Head outside with a friend, take a pencil and paper with you. Try to find somewhere with interesting plants, rocks or trees. Find a place to sit and choose a natural item to describe. Write about it for 5 mins. What does it look like? What colour is it? How big is it? What textures does it have? Be careful not to name the item. When you are finished exchange pieces of paper. Can you tell what it was your friend was describing? Choose a different object and start again.
 
@@ -213,7 +213,7 @@ Don't forget to replace the rock carefully when you are done. Try different rock
 
 
 ### Roll Down A Hill
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/roll-down-a-hill.svg
 
 Find a good slope covered in soft grass. Get rolling! How many different ways can you roll down the hill? On your side? Head over heels? Backwards? Go crazy and organise rolling races!
 
@@ -221,7 +221,7 @@ This is just one of the National Trusts 50 things to do before you are 11&frac34
 
 
 ### Nature Bracelet
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-bracelet.svg
 
 To make a nature bracelet all you need is masking tape. Wrap the tape around your wrist sticky side out. Then, head out into your garden, street or a park. Look around for natural things to stick to your bracelet. Leaves, flowers and seeds all make great decorations. You could try making a bracelet with one colour, or with many different coloured things. Try to cover every piece of sticky tape with something natural.
 
@@ -243,7 +243,7 @@ This is a fun game to play with your friends. You will need a blindfold or cloth
 ## 30: 30 minutes
 
 ### Spy Walk
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/spy-walk.svg
 
 Take a walk you know well. It could be to school or to the shops. Use your spy skills to seek all the wild things.
 
@@ -265,13 +265,13 @@ Take a walk through your neighbourhood, garden or a local park. Try to find some
 
 
 ### Smell Walk
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/smell-walk.svg
 
 Take a short walk and write down all the different things you can smell, such as fresh cut grass, moist soil, flowers, and rain. Can you smell different things at different times of the day? Can you smell different things in different weather conditions or seasons? When do you smell the most things? Can you locate the source of each smell?
 
 
 ### Dandelion Invisible Ink
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/dandelion-invisible-ink.svg
 
 Go outside and try to find a dandelion. Pick one, make sure you get plenty of stem. Look at the stem – a white liquid or sap will be oozing out. You can use this white sap as invisible ink! Just draw on a piece of paper using the stem sap. At first it will be very difficult to read. Leave it to dry and your picture or message will then be clear to see!
 
@@ -279,7 +279,7 @@ Thanks to the Woodland Trust for this activity. You can find more like it over a
 
 
 ### Tree Giants
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/tree-giants.svg
 
 Every park, street and woodland has a family of tree giants. This tree measuring activity will help you find the king of the trees!
 
@@ -301,7 +301,7 @@ Thanks to the Woodland Trust for this idea. You can <a href="http://www.naturede
 
 
 ### Leaf Hunt
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/leaf-hunt.svg
 
 Head to a local park or outside space with a lot of trees. Investigate the leaves on the trees. What shapes are they? What do they feel and smell like? See how many different types of tree you can identify from <a href="http://www.naturedetectives.org.uk/download/hunt_leaves.htm ">this downloadable sheet</a>.
 
@@ -349,7 +349,7 @@ Head outside, to a nature place with lots of plants. You will need to bring an o
 
 
 ### Nature Hunt
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-hunt.svg
 
 How many of these treasures can you find and collect? Some things may only appear at particular times of year. Which things can be found when?
 
@@ -382,7 +382,7 @@ Go on a short walk around a garden or park looking out for different objects on 
 
 
 ### Nature Alphabet
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-alphabet.svg
 
 Find an outside place with trees and plants. What things can you find to use to make letters? Big sticks, little sticks, leaves and long grass are all great. Get creative and try to make each letter of the alphabet. Maybe you can create a word or message for people or animals to find. Snap the results and share.
 
@@ -413,7 +413,7 @@ In September hedgerows are full of yummy blackberries. Head out and see if you c
 
 
 ### Feel the Wild
-Image URL: 
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/feel-the-wild.svg
 
 Walk to a park or some wild space, find a comfortable looking spot and sit or lie down – maybe under a tree.
 
@@ -421,13 +421,13 @@ Put on a blindfold (you could tie socks together, or a tea towel will do). Liste
 
 
 ### Moon Walk
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/moon-walk.svg
 
 On a weekend night take a walk and pay attention to the transition from day to night. Notice the sounds, smells and feelings.
 
 
 ### Fairy House
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/fairy-house.svg
 
 Find an out-of-the-way place to build a fairy house, such as at the base of a tree or in a corner of the garden. Then search for things to build and furnish the house. Sticks can become fairy brooms, flowers fairy hats, feathers can be fairy fans. Use your imagination to find fairy uses for all the items that you come across. Take a picture of your fairy house and share with your friends.
 
@@ -435,7 +435,7 @@ Find an out-of-the-way place to build a fairy house, such as at the base of a tr
 
 
 ### Tree Friends
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/tree-friends.svg
 
 Pick a tree in your garden or on your street to make your own. Put a ribbon or something simple around it and declares it to be yours! Name the tree and watch how it changes throughout the year. Draw and photograph the tree to create a special tree book.
 
@@ -443,7 +443,7 @@ Pick a tree in your garden or on your street to make your own. Put a ribbon or s
 
 
 ### Squirrel Assault Course
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/squirrel-assault-course.svg
 
 Gather acorns or other nuts in a basket and leave them out for the squirrels (dried corn-on-the-cob will work). Watch to see if you have any squirrel visitors. Create a fun maze for the squirrels using ropes, water guards, or other deterrents – squirrels are smart, and you'll enjoy watching them navigate the maze.
 
@@ -451,7 +451,7 @@ Gather acorns or other nuts in a basket and leave them out for the squirrels (dr
 
 
 ### Blindfold Tour
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/blindfold-tour.svg
 
 This is a fun and interesting way to explore the nature around you. With a friend head somewhere safe with some interesting places and plants to explore. Take it in turns to be blindfolded, with the sighted person leading the blindfolded one to different interesting places. The blindfolded friend has to touch, listen or smell, depending on what's there to explore. Get them to describe their experience. See if your friend can tell when they move from the sunny spots to the shade, or from grass to soil. When you have explored the area, see if they can retrace their steps from the things they experienced.
 
@@ -459,7 +459,7 @@ Thanks to the Woodland Trust for this activity. Get more ideas for exploring wit
 
 
 ### Barefoot Walk
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/barefoot-walk.svg
 
 Collect some cardboard boxes. Fix them together to make a tray big enough to walk in or place smaller boxes close together like stepping stones. Collect as many different natural textures from your garden or the park as you can find. Try leaves, twigs, soil &amp; grass. Fill up your boxes with your finds. Put something different in each box to make them unique.
 
@@ -469,7 +469,7 @@ Thanks to the Woodland Trust for this toe-tingling activity. Download a <a href=
 
 
 ### Woodland Parkour
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/woodland-parkour.svg
 
 Parkour is the art of free-running and finding ways over, under and around obstacles without stopping.
 
@@ -481,13 +481,13 @@ Thanks to the Woodland Trust for this activity. <a href="http://www.youtube.com/
 
 
 ### Start A Nature Journal
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/start-a-nature-journal.svg
 
 Keeping a Nature Journal is a great way to capture the details of your Nature adventures. Use the journal to describe the weather and what you can see around you and what you can smell and hear. Draw pictures of plants and animals you see or accounts of activities you do. Note down the changes outside in different seasons. Many of the great plant and animal experts started by keeping journals.
 
 
 ### Mini-Beast City
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/mini-beast-city.svg
 
 Find a good place where a variety of insects might like to live. Remember not all live in dark damp places. Some prefer bright sunny spots. Build a mini-beast city using things you find on the floor or around the house. Make them somewhere they can hide from predators, somewhere they can bask in the sun to warm up and get moving and somewhere they can find food. Why not give them a mini-beast playground too.
 
@@ -497,7 +497,7 @@ Thanks to the Woodland Trust for this activity. You can find more like it over a
 
 
 ### Winter Food Hunt
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/winter-food-hunt.svg
 
 Squirrels and jays are just two animals that store food ready for the winter. They need to have a good memory to find them again! Could you survive as a squirrel?
 
@@ -507,7 +507,7 @@ Thanks to the Woodland Trust for this activity. You can find more like it over a
 
 
 ### Sketch A Plant
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/sketch-a-plant.svg
 
 Take a short walk around your garden or a nearby nature place. Keep your eyes open for a plant or flower that catches your attention. It doesn't matter what it is. Find one that feels good to you, then you know that you have the right one!
 
@@ -520,25 +520,25 @@ Share your plant pictures with your friends, or draw many plants and make a plan
 <a href="http://www.outdoor-nature-child.com/nature-activity-sketch-a-plant.html">Read more on Outdoor Nature Child</a>
 
 ### Dusk Colours
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/dusk-colours.svg
 
 You need to do this in the evening as it begins to get dark. Just as the sun starts to set, find a comfortable spot to sit. Sit and be quiet, watch how the colours around you change as it gets darker and darker. Which ones can you see for the longest time? Which ones fade quickly? Can you see shades of grey and black? Are there things you can see at night that you couldn't see during the day? What animals do you think can see best at night?
 
 
 ### Mud Volcano
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/mud-volcano.svg
 
 Volcanos are one of natures greatest and most powerful forces! You can recreate a mini volcanic eruption in your own garden. You need a good place with plenty of earth to do this as well as baking soda and vinegar. When you have found a suitable spot build a mound about 20-30cm high. Then use a stick or other tool to dig a hole in the centre. Put two tablespoons of baking soda in the hole. Slowly pour in vinegar and watch your volcano erupt…
 
 
 ### Mud Castles
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/mud-castles.svg
 
 Everyone has heard of Sandcastles, but you don't need to go to the beach to make mud castles. Create your own mud superstructure. It could be in an empty bit of flowerbed, or even a empty flowerpot. Find something to use to dig and shape. It could be an old spoon or yogurt pot. Get creating. Dig a moat, build a wall, shape a mountain. Take pictures of your creation, share and start again.
 
 
 ### Butterfly Feeder
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/butterfly-feeder.svg
 
 This is a great activity for a summer's day, when there are butterflies around. You will need a piece of string, a paper plate and some mushy fruit.
 
@@ -550,7 +550,7 @@ Thanks to the Woodland Trust for this idea. You can find more <a href="http://ww
 
 
 ### Play Conkers
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/play-conkers.svg
 
 Conkers are the seeds of the horse chestnut tree and can normally be found in winter. To play you need conkers, some string and a screwdriver. Make a hole in your conker with a screwdriver. Thread the string through and tie a knot in the end. Then take it in turns to hit each other's conkers. The winning conker is the last to explode…
 
@@ -558,7 +558,7 @@ This is just one of the National Trusts 50 things to do before you are 11&frac34
 
 
 ### Fly A Kite
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/fly-a-kite.svg
 
 Flying kites is lots of fun. You need plenty of wind, a wide open space and a kite! If you do not have a kite, you can make your own from a sheet of paper. The National Trust show you how in <a href="https://www.50things.org.uk/nt50tAssets/games/Bumble_Bee_Kite.pdf">this pack</a>.
 
@@ -567,7 +567,7 @@ Flying kites is lots of fun. You need plenty of wind, a wide open space and a ki
 
 
 ### Park Rangers
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/park-rangers.svg
 
 Walk to the park. With a paper and pencil create a map. What different things live there?
 
@@ -577,13 +577,13 @@ Sketch it, snap it, share it. Go back in 2 weeks. What has changed?
 
 
 ### Nature Treasure Trail
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/nature-treasure-trail.svg
 
 Explore a small area of woodland or a park, looking for several secret places. You might find a special smell, colour or an animal's home. Now collect some fallen sticks and mark out a trail to these special places. If you are in a group you can split in two and set a trail for each other. Other visitors to the woodland will probably follow your trail too.
 
 
 ### Worm Charming
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/worm-charming.svg
 
 Worm charming is a brilliant way to get up and close to these wiggly creatures and lean all about them.
 
@@ -597,7 +597,7 @@ Thanks to the Woodland Trust for this charming activity. You can find more like 
 
 
 ### Leaf Stitch
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/leaf-stitch.svg
 
 What could you create for an animal using just fallen leaves and twigs?
 
@@ -613,7 +613,7 @@ Thanks to the Woodland Trust for this activity. Get lots more ideas for things t
 
 
 ### Owl Vision
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/owl-vision.svg
 
 Owls have fantastic vision and can spot their prey in the woods at night. This game helps you to develop your owl-vision. Find several small pieces of cloth of different colours. Find a trail in the woods or your local park or use an area in or around your home. This activity will work anywhere.
 
@@ -623,7 +623,7 @@ To make it more interesting, try different coloured pieces of cloth and put them
 
 
 ### Make A Mini-Beast Watering Hole
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/make-a-mini-beast-watering-hole.svg
 
 Some mini-beasts – insects like bees and butterflies – will visit a backyard watering dish. This simple insect watering hole requires only a few materials, and makes a great summer project. Can you create the perfect cafe for passing bugs? Here is how to do it. You will need a shallow tray or saucer and some small stones or pebbles.
 
@@ -637,7 +637,7 @@ Make sure you refill the tray on hot days when the water may evaporate quickly.
 
 
 ### Snail Farm
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/snail-farm.svg
 
 Snails can make fun pets for a few days. This a great way to get to know some shell-wearing friends. For this activity you will need a plastic bottle, some damp soil and some fresh snail food like lettuce and weeds.
 
@@ -645,7 +645,7 @@ Cut a small door in the side of the bottle about three inches by two inches so t
 
 
 ### Sprout Your Socks
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/sprout-your-socks.svg
 
 Do you know somewhere where wild grass grows? Do you have some old odd socks? Put one on over your shoes and stomp around in the long grass. Get the sock as dirty as you can. You could hike around your garden or park. When your sock looks really dirty put it in a clear plastic bag with a squirt of water. Tape the bag on a window in a sunny place and check daily to see the sock slowly sprout to life!
 
@@ -654,13 +654,13 @@ Do you know somewhere where wild grass grows? Do you have some old odd socks? Pu
 
 
 ### Build A Wild Den
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/build-a-wild-den.svg
 
 Find some space and make a whole camp. You could use sticks, branches and blankets. Or go for it and build a treehouse.
 
 
 ### Rock Pets
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/rock-pets.svg
 
 Head to your garden, the park, or even better to the beach or woods. Hunt for a special rock. What makes it so special? Is it an unusual shape? Is it shiny and smooth or jagged and rough? Take the rock home and use poster paints to decorate your rock. Maybe it looks like an animal? You can paint it like one and make a rock pet.
 
@@ -668,7 +668,7 @@ Take a picture, share it with your friends, start a rock zoo or farm!
 
 
 ### Pond Dipping
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/pond-dipping.svg
 
 If you have half a day, go to a local pond. You will need a net and some buckets or containers. Half-fill the containers with water before you start.
 
@@ -680,13 +680,13 @@ Thanks to the Woodland Trust for these tips. <a href="http://www.naturedetective
 
 
 ### Sundial
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/sundial.svg
 
 Before clocks, watches and phones, we had sundials to tell the time. You can make a sundial too. You will need a stick, 12 rocks, some paint or a marker and a watch or clock. Number the rocks 1 to 12. Paint them different colours if you like. Find a sunny spot somewhere that you can return to throughout the day. Place the stick in the ground so that it stands upright. Throughout the day watch your clock. Each hour, look where the sticks shadow is. Place the rock that matches the time so that it is in the sticks shadow. Tomorrow you won't need your watch anymore!
 
 
 ### Grow A Sunflower
-Image URL:
+Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/grow-a-sunflower.svg
 
 Sunflowers grow incredibly fast and get very tall. It is best to plant them in the spring. Try this with your friends and see who can grow the tallest sunflower giant.
 
