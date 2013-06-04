@@ -2,7 +2,7 @@
 ## 10: 10 Minutes
 
 
-### Drawing
+### 10 minute drawing
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/drawing.svg
 
 Take a paper &amp; pencil. Get outside, pick up or find some wild stuff, dirt, leaves, twigs, plants and draw, non-stop for 10 minutes. No stopping or talking, just drawing.
@@ -51,9 +51,9 @@ A grass trumpet is quick to make and fun to blow. All you need is a good blade o
 
 Put your thumbs together, and hold the blade of grass between them, gripping the grass with the top and bottom of your thumbs. Blow into the crack between your thumbs, so the air flows over the grass. You should hear a whistling sound. If you don't hear anything, move the blade of grass a little, and try again. Try making the grass tight or loose, try different blades of grass. Experiment and you'll soon get the hang of it. 
 
-Take a look at <a href="http://www.youtube.com/watch?v=xZ9VZsIcFVg&list=PLD3EE09EE24D2D8B7">this video from the National Trust to get started!</a>
+Take a look at <a href="http://www.youtube.com/watch?v=xZ9VZsIcFVg&list=PLD3EE09EE24D2D8B7">this video</a> from the National Trust to get started.
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Walk Like The Animals
@@ -79,7 +79,7 @@ Thanks to the BBC for this activity.
 ### Tree Hugs
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/tree-hugs.svg
 
-Take 10 minutes to feel a tree. Every tree species is unique and different, some are rough with distinct patterns while others are smooth like paper. Try this with a friend &ndash; it makes it more fun. Choose two different trees close to each other, close your eyes and use your hands to explore the bark and leaves. What can you find out about the tree? What does it feel like? Is it warm or cool? Describe the tree to your friend in as much detail as you can.
+Take 10 minutes to feel a tree. Every tree species is unique and different, some are rough with distinct patterns while others are smooth like paper. Try this with a friend; it makes it more fun. Choose two different trees close to each other, close your eyes and use your hands to explore the bark and leaves. What can you find out about the tree? What does it feel like? Is it warm or cool? Describe the tree to your friend in as much detail as you can.
 
 
 ### Guess The Animal Noise
@@ -91,9 +91,11 @@ Animals make crazy noises. How many different animal noises can you think of? Tr
 ### Hunt for Fossils and Bones
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/hunt-for-fossils-and-bones.svg
 
-There aren’t many dinosaur bones around these days but you never know what other treasures you might find if you dig around. Just make sure your careful not to dig up what a dog has left behind! Check out this <a href="http://www.youtube.com/watch?v=iRjvci49PAM&list=PLD3EE09EE24D2D8B7"> video guide from the National Trust’s Kids Council to get started.</a>
+There aren’t many dinosaur bones around these days but you never know what other treasures you might find if you dig around. Just make sure your careful not to dig up what a dog has left behind! 
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+Check out this <a href="http://www.youtube.com/watch?v=iRjvci49PAM&list=PLD3EE09EE24D2D8B7">video guide from the National Trust’s Kids Council to get started</a>.
+
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 
@@ -103,9 +105,12 @@ From the National Trust’s list of 50 things to do before you’re 11 ¾. <a hr
 ### Birdstep
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bird-step.svg
 
-Spot a bird, they're everywhere if you stop and look and listen. How close can you get to that bird? Be silent, statue-like, stealthy and move super-slow. Can you talk to it through your inner wild thing?
+When you're outside or walking somewhere see if you can spot a bird, they're everywhere if you stop and look and listen. How close can you get to that bird? Be silent, statue-like, stealthy and move super-slow. Can you talk to it through your inner wild thing?
 
 Can you snap it with a camera, identify it, share it?
+
+Bird Step <a href="https://soundcloud.com/goodfornothing-1/birdstep-mashup">sounds good</a> too.
+
 
 ### Bird Dinner Party
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/bird-dinner-party.svg
@@ -126,11 +131,11 @@ Head out for a short walk somewhere near your house and collect the smells you c
 ### Leaf Snap
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/leaf-snap.svg
 
-Collect a bunch of different fallen leaves in a bag. Then empty out the bag and try to match the leaves with ones from the same tree. How many different types of leaf can you find? You can identify them here:
+Collect a bunch of different fallen leaves in a bag. Then empty out the bag and try to match the leaves with ones from the same tree. How many different types of leaf can you find?
 
-<a href="http://www-saps.plantsci.cam.ac.uk/trees/index2.htm">Plant Science</a>
+You can identify them on the <a href="http://www-saps.plantsci.cam.ac.uk/trees/index2.htm">Plant Science</a> website.
 
-Thanks to the Planet Science for this activity.
+Thanks to Planet Science for this activity.
 	
 
 ### Bee Stalk
@@ -138,7 +143,9 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 When you spot a bee visiting a flower, wait and then follow where it goes. Be careful to watch where you are going because a bee can reach places more easily than you can.
 
-Thanks to the Woodland Trust for this activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives website</a>
+You can find more like it over at their <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Shadow Watching
@@ -148,7 +155,9 @@ This is good for a sunny day. Head outside into an area with plants and trees. L
 
 Have a game of shadow tag. And try to avoid your shadow being trodden on.
 
-Thanks to the Woodland Trust for this activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives website</a>.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Stop And Listen
@@ -158,7 +167,9 @@ Find a quiet place to sit and listen. Even on a still day you will be able to he
 
 Write down or try to draw what you hear. What do you think the trees, flowers, animals and summer breeze are saying to each other?
 
-Thanks to the Woodland Trust for this activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives website</a>.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Give Me Five
@@ -167,6 +178,8 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 Head outside. All you need is a keen pair or eyes. Pick a category. Try to find 5 different things that fit the category. For example find 5 different types of tree, 5 different animals, 5 different insects, or 5 different flowers. Snap, draw or write down the things you find. Do you know what they are called? If not then when you get home look them so that you know for next time.
 
 <a href="http://www.botanicalkeys.co.uk/flora/content/SEARCH.ASP">Identify flowers at Botanical Keys</a>.
+
+Thanks to Society of the British Isles (Botanical Keys Flora Search)
 
 
 ### Microscopic Animal Walk
@@ -200,7 +213,7 @@ Next time it is raining don't stay inside, put on a raincoat and wellies and exp
 
 Once you're outside splashing through the rain, sniff the air. What does rain smell like? Look around. See if you can spot any animals or insects that you don't normally see when the sun is out. Look at the trees, how do they handle the rain? Some leaves are made so that the rain glides off them. What else you can discover around your home that looks different in the rain than when the sun is out?
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Observation Game
@@ -220,7 +233,7 @@ Make a small incision at the base of the stem with your thumb nail. Be careful n
 
 Thread the stem of another daisy through the slit. Then repeat the process with subsequent daisies. When you think your daisy chain is long enough, thread the stem of the last daisy through a small slit at the top of the first stem.
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 Thanks to WikiHow for this activity.
 
@@ -234,12 +247,15 @@ Observe, snap, draw.
 
 Don't forget to replace the rock carefully when you are done. Try different rocks in different places. What different things can you find? Try at different times of day or in different weather. Record the differences you find in the under-rock world.
 
+
 ### Roll Down A Hill
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/roll-down-a-hill.svg
 
 Find a good slope covered in soft grass. Get rolling! How many different ways can you roll down the hill? On your side? Head over heels? Backwards? Go crazy and organise rolling races!
 
-This is just one of the National Trusts 50 things to do before you are 11 ¾;. Watch <a href="https://www.youtube.com/watch?v=z0ij4UmAEEg&amp;feature=player_embedded">this video</a> for rolling tips!
+Watch <a href="https://www.youtube.com/watch?v=z0ij4UmAEEg&amp;feature=player_embedded">this video</a> for rolling tips!
+
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Nature Bracelet
@@ -255,9 +271,7 @@ Trees make the best climbing frames, if you know how to pick the right one. Go w
 
 Check out <a href="http://www.youtube.com/watch?v=TSTILvAlObg">this video for more tree climbing tips.</a>
 
-his is just one of the National Trusts 50 things to do before you are 11 ¾; you can find the rest on the <a href="http://www.nationaltrust.org.uk/50things">50 things website</a>
-
-Thanks to LIVESTRONG for this activity.
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Nature Mystery Bag
@@ -271,7 +285,7 @@ This is a fun game to play with your friends. You will need a blindfold or cloth
 ### Spy Walk
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/spy-walk.svg
 
-Take a walk you know well. It could be to school or to the shops. Use your spy skills to seek all the wild things.
+Take a walk you know well. It could be to school or to the shops. Use your spy skills to seek out all the wild things.
 
 Spy it, snap it, note it, sketch it.
 
@@ -281,7 +295,7 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 Don't read in. Read out.
 
-Take your reading books and find a spot in outside to sit and read. Everything is better outside!
+Take your reading books and find a spot outside to sit and read. Words sound better outside!
 
 
 ### Rainbow Search
@@ -301,7 +315,9 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 Go outside and try to find a dandelion. Pick one, make sure you get plenty of stem. Look at the stem – a white liquid or sap will be oozing out. You can use this white sap as invisible ink! Just draw on a piece of paper using the stem sap. At first it will be very difficult to read. Leave it to dry and your picture or message will then be clear to see!
 
-Thanks to the Woodland Trust for this activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives website</a>.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Tree Giants
@@ -311,7 +327,9 @@ Every park, street and woodland has a family of tree giants. This tree measuring
 
 Find a tree that you think is a tree giant, and face away from the tree. Look upside down between your legs and move forwards or backwards until you can see the top of the tree. Count how many steps or paces it is to the tree trunk. This is how tall the tree giant is. Can you find one even taller?
 
-Thanks to the Nature Detectives for this activity. You can find more like it over at <a href="http://www.naturedetectives.org.uk/download/booklet_play.htm">Nature Detectives</a>.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Snail Races
@@ -323,7 +341,7 @@ Try racing different creatures – ladybirds, slugs, woodlice, worms or ants. Wh
 
 Take a look at this <a href="https://www.youtube.com/watch?v=-dF9wgw0gxU&amp;feature=player_embedded">video guide to snail racing</a> from the National Trust's list of 50 things to do before you're 11 ¾.
 
-You can also<a href="http://www.naturedetectives.org.uk/download/snail_racing_kit.htm">download a snail racing kit</a> and more ideas on the Woodland Trust's <a href="http://www.naturedetectives.org.uk/">nature detectives website</a>.
+You can also<a href="http://www.naturedetectives.org.uk/download/snail_racing_kit.htm">download a snail racing kit</a> and more ideas on the Woodland Trust's <a href="http://www.naturedetectives.org.uk/download/snail_racing_kit.htm">nature detectives website</a>.
 
 
 
@@ -335,7 +353,9 @@ Head to a local park or outside space with a lot of trees. Investigate the leave
 
 You can do this in different places and draw a tree map. Which area has the most different types of tree? Start a leaf collection. See who can collect the most different species.
 
-Thanks to the Woodland Trust for this spotting activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Forest Floor Challenge
@@ -353,7 +373,9 @@ Choose your starting point carefully. Look out for:
 
 Mark the furthest point you reach without touching the ground and measure it in strides from the starting point. How far can you get?
 
-Thanks to the Woodland Trust for this game. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Nest Challenge
@@ -365,7 +387,9 @@ Look for materials on the floor that you could use – for example dried grasses
 
 If you want to give yourself an extra challenge, try using just one hand – the bird only has its beak after all! If there are two of you, you could use one hand each and work together. When you have finished, look for several small stones, cones or other objects that could be your eggs. Place them in your nest. Will it hold them? Then, with your eggs still in the nest, give the branch a little shake to see if your nest would stand up to the wind Take pics of your nest and share with your friends.
 
-Thanks to the Woodland Trust for this challenge. You can find more bird activities over at their <a href="http://www.naturedetectives.org.uk/download/bird_pack.htm">nature detectives</a> website.
+You can find more bird activities over at their <a href="http://www.naturedetectives.org.uk/download/bird_pack.htm">nature detectives</a> website.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Nature Perfume Pot
@@ -373,7 +397,9 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 Head outside, to a nature place with lots of plants. You will need to bring an old container such as a yoghurt pot with you for this activity. Look for things on the floor or in hedges and bushes. Pick them up, crush them or break them between your fingers and smell. Add any smells you like to your pot to make a nature scent. Use a stick to mash them together. Which animals may be attracted to your woodland scent? A bumble bee? A badger? A blackbird? 
 
-<a href="http://www.naturedetectives.org.uk">http://www.naturedetectives.org.uk</a>
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Nature Hunt
@@ -396,11 +422,13 @@ How many of these treasures can you find and collect? Some things may only appea
 - The sound of the wind in the tree tops (record it or remember it)
 - A fallen twig covered in moss or lichen
 - A star-shaped leaf
-- 0 leaves, each with a different autumn colour or shade
+- leaves, each with a different autumn colour or shade
 - A prickly sweet chestnut shell, opened to show the furry lining
 - The sound of an animal rustling in the dead leaves or undergrowth
 
-Thanks to the Woodland Trust for this scavenger hunt. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/download/treasure_pack.htm">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Wild Art
@@ -408,7 +436,7 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 Go on a short walk around a garden or park looking out for different objects on the ground. Look for different colours shapes or textures. Collect the objects and arrange them into a picture or pattern. What picture or sculpture can you create with the things you have found? Take pictures of your art and share with your friends.
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Nature Alphabet
@@ -438,7 +466,8 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 In September hedgerows are full of yummy blackberries. Head out and see if you can find some. Watch out for the prickly brambles so you don’t get scratched. And make sure its definitely a blackberry by asking a grown up, there’s some dangerous berries out there too. So do check.
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
+
 
 ## 60: 1 hour
 
@@ -454,7 +483,7 @@ Put on a blindfold (you could tie socks together, or a tea towel will do). Liste
 ### Moon Walk
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/moon-walk.svg
 
-On a weekend night take a walk and pay attention to the transition from day to night. Notice the sounds, smells and feelings.
+On a weekend night take a walk as the sun is going down. Pay attention to the transition from day to night. Notice the sounds, smells and feelings.
 
 
 ### Fairy House
@@ -486,7 +515,9 @@ Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.
 
 This is a fun and interesting way to explore the nature around you. With a friend head somewhere safe with some interesting places and plants to explore. Take it in turns to be blindfolded, with the sighted person leading the blindfolded one to different interesting places. The blindfolded friend has to touch, listen or smell, depending on what's there to explore. Get them to describe their experience. See if your friend can tell when they move from the sunny spots to the shade, or from grass to soil. When you have explored the area, see if they can retrace their steps from the things they experienced.
 
-Thanks to the Woodland Trust for this activity. Get more ideas for exploring with your senses over at their <a href="http://www.naturedetectives.org.uk/">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Barefoot Walk
@@ -496,7 +527,9 @@ Collect some cardboard boxes. Fix them together to make a tray big enough to wal
 
 Guide a blindfolded friend along the walk. Can they guess all the different textures?
 
-Check out this  <a href="http://www.youtube.com/watch?v=CVa3X4boMP4">video guide</a>from the National Trust Kids Council to get started. From the National Trust’s list of <a href="http://http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>. 
+Check out this <a href="http://www.youtube.com/watch?v=CVa3X4boMP4">video guide</a> from the National Trust Kids Council to get started.
+
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 You can also download a <a href="http://www.naturedetectives.org.uk/download/barefoot_walk.htm">textures list</a> over at the Woodland Trust’s nature detectives website.
 
@@ -510,13 +543,15 @@ It is usually done in towns and cities but some free-runners are discovering tha
 
 Woods are full of natural obstacles such as trees, fallen branches, stumps and mounds of earth. The ground is also much softer than concrete – perfect for the beginner!
 
-Thanks to the Woodland Trust for this activity. <a href="http://www.youtube.com/watch?v=Ssv6xEMXrn0">Watch this video</a> for some simple parkour moves you can try in your local woods.
+<a href="http://www.youtube.com/watch?v=Ssv6xEMXrn0">Watch this video</a> for some simple parkour moves you can try in your local woods.
+
+Thanks to the Woodland Trust for this activity.
 
 
-### Start A Nature Journal
+### Start A Wild Journal
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/start-a-nature-journal.svg
 
-Keeping a Nature Journal is a great way to capture the details of your Nature adventures. Use the journal to describe the weather and what you can see around you and what you can smell and hear. Draw pictures of plants and animals you see or accounts of activities you do. Note down the changes outside in different seasons. Many of the great plant and animal experts started by keeping journals.
+Keeping a Wild Journal is a great way to capture the details of your wild adventures. Use the journal to describe the weather and what you can see around you and what you can smell and hear. Draw pictures of plants and animals you see or accounts of activities you do. Note down the changes outside in different seasons. Many of the great plant and animal experts started by keeping journals.
 
 
 ### Mini-Beast City
@@ -526,7 +561,9 @@ Find a good place where a variety of insects might like to live. Remember not al
 
 Next time you visit you may find some mini-beasts have moved in!
 
-Thanks to the Woodland Trust for this activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Winter Food Hunt
@@ -536,7 +573,9 @@ Squirrels and jays are just two animals that store food ready for the winter. Th
 
 Collect 5-10 acorns, nuts or seeds. If you can't find any, use something else like marbles or stones instead. Find a good place to store or bury them. Go off for a walk, then come back and see if you can find them. Why not really test yourself and store the acorns on one visit to the woodland or park, then look for them the next time you come. Squirrels may have found them, though…
 
-Thanks to the Woodland Trust for this activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Sketch A Plant
@@ -551,6 +590,7 @@ Now you can sketch. Don't worry about making it perfect. Focus on a few things. 
 Share your plant pictures with your friends, or draw many plants and make a plant art gallery.
 
 <a href="http://www.outdoor-nature-child.com/nature-activity-sketch-a-plant.html">Read more on Outdoor Nature Child</a>
+
 
 ### Dusk Colours
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/dusk-colours.svg
@@ -579,7 +619,9 @@ Make four holes around the rim of your plate. Try to make them evenly spaced. Ti
 
 You can identify <a href="http://www.britishbutterflies.co.uk/identification.asp">British butterflies here</a> on Steven Cheshire's amazing website.
 
-Thanks to the Woodland Trust for this idea. You can find more <a href="http://www.naturedetectives.org.uk/packs/butterfly_pack.htm">butterfly activities</a> over at their nature detectives website.
+You can find more <a href="http://www.naturedetectives.org.uk/packs/butterfly_pack.htm">butterfly activities</a> over at their nature detectives website.
+
+Thanks to the Woodland Trust for this activity.
 
 
 
@@ -590,7 +632,7 @@ Conkers are the seeds of the horse chestnut tree and can normally be found in wi
 
 Take a look at the National Trust’s <a href="https://www.50things.org.uk/nt50tAssets/games/conkers.pdf">guide of how to play here</a>.
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Fly A Kite
@@ -631,7 +673,9 @@ Keep all the worms you charm in a safe place, count them, measure them and count
 
 Try worm charming in different areas. Which is home to the most worms? You could hold a worm charming competition &amp; see who can charm the most worms.
 
-Thanks to the Woodland Trust for this charming activity. You can find more like it over at their <a href="http://www.naturedetectives.org.uk/">nature detectives</a> website.
+Find out more over at the <a href="http://www.naturedetectives.org.uk/wildtime/">nature detectives website</a>.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Leaf Stitch
@@ -647,7 +691,9 @@ You can create many things by stitching leaves together. Here's how to do it.
 
 Find yourself some fallen leaves and thin but strong fallen twigs. Overlap the leaves and use your thumbnails to carefully make a hole through both layers. Now make a second hole near the first. Push your thin twig down through the first hole and up through the second. Your leaves are now stitched together!
 
-Thanks to the Woodland Trust for this activity. Get lots more ideas for things to do with autumn leaves over at their <a href="http://www.naturedetectives.org.uk/autumn/">nature detectives</a> website.
+Get lots more ideas for things to do with autumn leaves over at their <a href="http://www.naturedetectives.org.uk/autumn/">nature detectives</a> website.
+
+Thanks to the Woodland Trust for this activity.
 
 
 ### Owl Vision
@@ -694,11 +740,11 @@ Do you know somewhere where wild grass grows? Do you have some old odd socks? Pu
 ### Build A Wild Den
 Image URL: http://61b3eb0d8e96f445e866-9f74caa3d4552b4d51a2bbe93ea28b6f.r99.cf2.rackcdn.com/build-a-wild-den.svg
 
-Find some space and make a whole camp. You could use sticks, branches and blankets. Or go for it and build a treehouse.
+Find some space and make a den. You could use sticks, branches and blankets. Try looking for ‘wild furniture’ trees, stumps and things that you can build against and use as support.
 
 Check out <a href="http://www.youtube.com/watch?v=kGTD2CSCDsY&list=PLD3EE09EE24D2D8B7&index=10">this video</a> from the National Trust Kids Council for top den building tips! 
 
-From the National Trust’s list of 50 things to do before you’re 11 ¾. <a href="http://www.nationaltrust.org.uk/50things">Sign up today</a>
+From the National Trust’s list of <a href="http://www.nationaltrust.org.uk/50things">50 things to do before you’re 11 ¾</a>.
 
 
 ### Rock Pets
